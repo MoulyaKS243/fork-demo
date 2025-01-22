@@ -1,0 +1,6 @@
+git log --log=format:"%H:%an:%ad"
+  git log --pretty=format:'%h %s' --graph
+  git log --abbrev-commit --pretty=oneline
+  git log --pretty=oneline
+  git log --oneline --graph --decorate --all
+  
